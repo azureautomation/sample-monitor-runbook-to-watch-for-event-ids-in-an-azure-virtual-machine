@@ -1,0 +1,20 @@
+{
+    "Author": "Azure Automation Product Team",
+    "ContentSize": 5453,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/sample-monitor-runbook-to-watch-for-event-ids-in-an-azure-virtual-machine./master/Watch-EventID.ps1",
+    "DownloadCount": 1169,
+    "Id": "Sample-monitor-runbook-to-28b5ad6e",
+    "IsFederated": false,
+    "IsWorkflow": true,
+    "Popularity": 301,
+    "RaterCount": 2,
+    "Rating": 5.0,
+    "ReleaseDate": "2014-11-12T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "This runbook looks for a specific event ID in an Azure VM so that an action could be taken. It should be used with the Manage-MonitorRunbook runbook. Please refer to http://azure.microsoft.com/blog/2014/11/17/monitoring-azure-services-and-external-systems-with-azure-automation",
+    "Title": "Sample monitor runbook to watch for event IDs in an Azure Virtual Machine.",
+    "UpdatedDate": "2014-11-18T00:00:00",
+    "Url": "https://github.com/azureautomation/sample-monitor-runbook-to-watch-for-event-ids-in-an-azure-virtual-machine.",
+    "UserTags": "Tutorial"
+}
